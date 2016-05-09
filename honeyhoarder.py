@@ -1,11 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        Honey Hoarder
-# Purpose:     Mini game where the player click on the bees in order to catch them
-# Author:      Anya, 322088089
-# Created:     10/04/2015
-#-------------------------------------------------------------------------------
-#!/usr/bin/env python
-
 import pygame
 from pygame.locals import *
 pygame.init()

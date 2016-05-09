@@ -1,11 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        Wool World
-# Purpose:     Mini game where player guides sheep into their pen
-# Author:      Anya, 322088089
-# Created:     24/05/2015
-#-------------------------------------------------------------------------------
-#!/usr/bin/env python
-
 import pygame
 from pygame.locals import *
 pygame.init()

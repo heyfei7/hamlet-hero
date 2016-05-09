@@ -1,15 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        Metal Miner
-# Purpose:
-#
-# Author:      Anya Pechkina and Fei Dong
-#
-# Created:     27/03/2015
-#-------------------------------------------------------------------------------
-#!/usr/bin/env python
-
-"""slightly darker background for the character"""
-
 import pygame
 from pygame.locals import *
 pygame.init()

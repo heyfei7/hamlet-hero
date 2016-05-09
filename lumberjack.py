@@ -1,11 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        LumberJack
-# Purpose:     Mini game where player uses arrows to fell a tree
-# Author:      Anya, 322088089
-# Created:     28/04/2015
-#-------------------------------------------------------------------------------
-#!/usr/bin/env python
-
 import pygame
 from pygame.locals import *
 pygame.init()

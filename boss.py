@@ -1,13 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        Boss Level
-# Purpose:
-#
-# Author:      Fei Dong, 333845014
-#
-# Created:     29/04/2015
-#-------------------------------------------------------------------------------
-#!/usr/bin/env python
-
 import pygame
 from pygame.locals import *
 pygame.init()

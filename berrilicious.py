@@ -1,13 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        Berrilicious
-# Purpose:
-#
-# Author:      Fei Dong, 333845014
-#
-# Created:     10/04/2015
-#-------------------------------------------------------------------------------
-#!/usr/bin/env python
-
 import pygame
 from pygame.locals import *
 pygame.init()
